@@ -25,7 +25,7 @@
       <Button layoutX="207.0" layoutY="288.0" mnemonicParsing="false" rotate="-56.4" text="D" />
       <Button layoutX="127.0" layoutY="336.0" mnemonicParsing="false" text="E" />
       <Button layoutX="657.0" layoutY="10.0" mnemonicParsing="false" text="Exit" />
-      <TextField layoutX="396.0" layoutY="85.0" prefHeight="457.0" prefWidth="286.0" promptText="Bulunan Kelimeler" />
+      <TextField editable="false" layoutX="396.0" layoutY="85.0" prefHeight="457.0" prefWidth="286.0" promptText="Bulunan Kelimeler" />
       <Label layoutX="113.0" layoutY="77.0" text="Aranan Kelime" />
       <Label layoutX="84.0" layoutY="509.0" text="Bildirim (hata veya onay)" />
    </children>
